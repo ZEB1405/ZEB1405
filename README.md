@@ -75,8 +75,8 @@ Building a solid foundation as a full-stack developer, with a focus on backend s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZEB1405&show_icons=true&theme=default&count_private=true" alt="Sebastian's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEB1405&layout=compact&theme=default" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-six-orpin-97.vercel.app/api?username=ZEB1405&show_icons=true&theme=default" alt="Sebastian's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-six-orpin-97.vercel.app/api/top-langs/?username=ZEB1405&layout=compact&theme=default" alt="Top languages" height="165"/>
 </p>
 
 <br>
