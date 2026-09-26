@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian 👋</h1>
-<h3 align="center">Frontend developer working towards full-stack — backend and systems curious</h3>
+<h3 align="center">Frontend developer working towards full-stack, with a curiosity backend and systems.</h3>
 
 <p align="center">
 I break problems down until they make sense, then build the thing. Currently working in React/JavaScript day-to-day, while building out ASP.NET Core, EF Core, and REST API projects on the side to grow into backend and full-stack work.
@@ -7,7 +7,7 @@ I break problems down until they make sense, then build the thing. Currently wor
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -43,7 +43,7 @@ I break problems down until they make sense, then build the thing. Currently wor
 ## Projects
 
 ### [FitnessAPI](https://github.com/ZEB1405/FitnessAPI)
-Backend foundation for a larger fitness application — tracks body weight and fitness data through a clean REST API.
+Backend foundation for a larger fitness application. Tracks body weight and fitness data through a clean REST API.
 `.NET 10` · `ASP.NET Core` · `EF Core` · `SQLite` · `Swagger/OpenAPI`
 
 ### [Open-Meteo Forecast App](https://github.com/ZEB1405/Open-Meteo-Forecast-App)
@@ -67,9 +67,9 @@ Test-driven ASP.NET Core Web API for a lost-and-found system, containerized for 
 
 ## What I'm Working Towards
 
-I'm currently a frontend developer, building out React/JavaScript projects as part of my coursework. My goal is to grow into full-stack development — I'm building backend projects (ASP.NET Core, EF Core, REST APIs) on my own time to develop that side of my skill set, with a particular interest in application architecture and systems thinking.
+I'm currently a frontend developer, building out React/JavaScript projects as part of my coursework. My goal is to grow into full-stack development. I'm building backend projects (ASP.NET Core, EF Core, REST APIs) on my own time to develop that side of my skill set, with a particular interest in application architecture and systems thinking.
 
-Long-term, I want to combine solid backend engineering with polished, well-designed frontends — not just satisfy coursework, but build things that hold up on their own.
+Long-term, I want to combine solid backend engineering with polished, well-designed frontends - not just satisfy coursework, but build things that hold up on their own.
 
 <br>
 
