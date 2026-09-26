@@ -50,10 +50,6 @@ Backend foundation for a larger fitness application. Tracks body weight and fitn
 Responsive weather app consuming the Open-Meteo API, built with React.
 `React` · `JavaScript` · `REST APIs` · `Responsive UI`
 
-### [MiniHittegods](https://github.com/ZEB1405/MiniHittegods)
-Test-driven ASP.NET Core Web API for a lost-and-found system, containerized for consistent local dev.
-`.NET 10` · `ASP.NET Core` · `TDD` · `Docker` · `Docker Compose`
-
 <br>
 
 ## Currently Learning
