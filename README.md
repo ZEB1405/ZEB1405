@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sebastian 👋</h1>
-<h3 align="center">Full-stack developer in training, based in Norway — backend-leaning, systems-curious</h3>
+<h3 align="center">Frontend developer working towards full-stack — backend and systems curious</h3>
 
 <p align="center">
-I break problems down until they make sense, then build the thing. Currently deep in ASP.NET Core, EF Core, and REST API design, with React on the frontend side.
+I break problems down until they make sense, then build the thing. Currently working in React/JavaScript day-to-day, while building out ASP.NET Core, EF Core, and REST API projects on the side to grow into backend and full-stack work.
 </p>
 
 <br>
@@ -68,7 +68,9 @@ Test-driven ASP.NET Core Web API for a lost-and-found system, containerized for 
 
 ## 🎯 What I'm Working Towards
 
-Building a solid foundation as a full-stack developer, with a focus on backend systems, API design, and application architecture — while creating projects that hold up outside of coursework, not just satisfy it. Long-term, I want to pair strong backend engineering with polished, well-designed frontends.
+I'm currently a frontend developer, building out React/JavaScript projects as part of my coursework. My goal is to grow into full-stack development — I'm building backend projects (ASP.NET Core, EF Core, REST APIs) on my own time to develop that side of my skill set, with a particular interest in application architecture and systems thinking.
+
+Long-term, I want to combine solid backend engineering with polished, well-designed frontends — not just satisfy coursework, but build things that hold up on their own.
 
 <br>
 
