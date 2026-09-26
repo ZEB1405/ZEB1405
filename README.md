@@ -37,36 +37,35 @@ I break problems down until they make sense, then build the thing. Currently wor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Lazygit](https://img.shields.io/badge/Lazygit-282a36?style=flat&logo=git&logoColor=white)
 
 <br>
 
-## 🚀 Projects
+## Projects
 
-### [FitnessAPI](https://github.com/ZEB1405)
+### [FitnessAPI](https://github.com/ZEB1405/FitnessAPI)
 Backend foundation for a larger fitness application — tracks body weight and fitness data through a clean REST API.
 `.NET 10` · `ASP.NET Core` · `EF Core` · `SQLite` · `Swagger/OpenAPI`
 
-### [Open-Meteo Forecast App](https://github.com/ZEB1405)
+### [Open-Meteo Forecast App](https://github.com/ZEB1405/Open-Meteo-Forecast-App)
 Responsive weather app consuming the Open-Meteo API, built with React.
 `React` · `JavaScript` · `REST APIs` · `Responsive UI`
 
-### [MiniHittegods](https://github.com/ZEB1405)
+### [MiniHittegods](https://github.com/ZEB1405/MiniHittegods)
 Test-driven ASP.NET Core Web API for a lost-and-found system, containerized for consistent local dev.
 `.NET 10` · `ASP.NET Core` · `TDD` · `Docker` · `Docker Compose`
 
 <br>
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced C# & .NET, ASP.NET Core architecture
 - Entity Framework Core & relational data modeling
 - React & frontend-backend integration
-- SQL / PostgreSQL at scale
+- SQL & PostgreSQL
 - Docker & containerized workflows
 - Software architecture & testing practices
 
-## 🎯 What I'm Working Towards
+## What I'm Working Towards
 
 I'm currently a frontend developer, building out React/JavaScript projects as part of my coursework. My goal is to grow into full-stack development — I'm building backend projects (ASP.NET Core, EF Core, REST APIs) on my own time to develop that side of my skill set, with a particular interest in application architecture and systems thinking.
 
@@ -74,7 +73,7 @@ Long-term, I want to combine solid backend engineering with polished, well-desig
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-six-orpin-97.vercel.app/api?username=ZEB1405&show_icons=true&theme=default" alt="Sebastian's GitHub stats" height="165"/>
@@ -83,7 +82,7 @@ Long-term, I want to combine solid backend engineering with polished, well-desig
 
 <br>
 
-## 📫 Find Me
+## Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZEB1405)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-vik-westre)
