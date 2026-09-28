@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian 👋</h1>
-<h3 align="center">Frontend developer working towards full-stack, with a curiosity backend and systems.</h3>
+<h3 align="center">Frontend developer working towards full-stack, with a curiosity in backend and systems.</h3>
 
 <p align="center">
 I break problems down until they make sense, then build the thing. Currently working in React/JavaScript day-to-day, while building out ASP.NET Core, EF Core, and REST API projects on the side to grow into backend and full-stack work.
