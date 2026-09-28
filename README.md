@@ -79,9 +79,3 @@ Long-term, I want to combine solid backend engineering with polished, well-desig
   <img src="https://github-readme-stats-six-orpin-97.vercel.app/api?username=ZEB1405&show_icons=true&theme=default" alt="Sebastian's GitHub stats" height="165"/>
   <img src="https://github-readme-stats-six-orpin-97.vercel.app/api/top-langs/?username=ZEB1405&layout=compact&theme=default" alt="Top languages" height="165"/>
 </p>
-
-<br>
-
-## Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZEB1405)
